@@ -1,7 +1,7 @@
--rw-rw-rw- 1 aabounegm aabounegm 0 Oct 23 13:37 _ex3.txt
--rw-rw-rw- 1 aabounegm aabounegm 0 Oct 23 13:37 _ex3.txt
--rwxrw-rwx 1 aabounegm aabounegm 0 Oct 23 13:37 _ex3.txt
--rwxrwxrwx 1 aabounegm aabounegm 0 Oct 23 13:37 _ex3.txt
+-rw-rw-rw- 1 keldakroury keldakroury 0 Oct 21 13:37 _ex3.txt
+-rw-rw-rw- 1 keldakroury keldakroury 0 Oct 21 13:37 _ex3.txt
+-rwxrw-rwx 1 keldakroury keldakroury 0 Oct 21 13:37 _ex3.txt
+-rwxrwxrwx 1 keldakroury keldakroury 0 Oct 21 13:37 _ex3.txt
 
 
 The number specified for the permission is in octal, and the individual bits correspond to the rwx permission for each user type.
