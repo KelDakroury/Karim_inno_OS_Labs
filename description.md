@@ -1,6 +1,6 @@
 # Operating_Systems_Training
 
-By completing the tasks, I am able to:
+tasks for:
 
 - Strategies for programming at the Operating System level
 
