@@ -1,0 +1,66 @@
+    1  apt search zoom_amd64.deb
+    2  sudo apt install zoom_amd64.deb
+    3  sudo intall zoom_amd64.deb
+    4  20520
+    5  install zoom_amd64.deb
+    6  sudo install zoom_adb64.deb
+    7  sudo install zoom_amd64.deb
+    8  install --help
+    9  sudo apt install zoom_amd64.deb
+   10  sudo dpkg -i zoom_amd64.deb
+   11  sudo reboot
+   12  sudo apt install -y fprintd libpm-fprintd
+   13  sudo pam-auth-update
+   14  python -version
+   15  sudo apt install python3.8
+   16  python -version
+   17  python3 -version
+   18  python3 --version
+   19  sudo apt install software-properties-common
+   20  sudo add-apt-repository ppa:deadsnakes/ppa
+   21  sudo apt-get update
+   22  sudo apt-get install python3.8
+   23  python
+   24  python3
+   25  sudo apt install -y fprintd libpam-fprintd
+   26  sudo pam-auth-update
+   27  reboot
+   28  js/ui/keyboard.js
+   29  sudo install keyboard.js
+   30  rhino js_ui_keyboard.js
+   31  sudo apt install rhino
+   32  rhino js_ui_keyboard.js
+   33  node js_ui_keyboard
+   34  sudo apt istall nodejs
+   35  sudo apt install nodejs
+   36  node js_ui_keyboard.js
+   37  rhino js_ui_keyboard.js
+   38  node js_ui_keyboard
+   39  node import js_ui_keyboard
+   40  sudo apt install gcc
+   41  sudo apt install built-essential
+   42  sudo apt install build-essential
+   43  ssh -X k.eldakroury@osc-[N].edu.innopolis.ru
+   44  ssh -X k.eldakroury@osc-06.edu.innopolis.ru
+   45  mkdir ~/week1
+   46  cd ~/week1/ex1.txt
+   47  touch ~/week1/"ex1"
+   48  touch ~/week2/"ex2"
+   49  touch ~/week1/"ex2"
+   50  sudo 
+   51  Apr-Get
+   52  sudo apt-get update
+   53  sudo apt-get upgrade
+   54  sudo apt-get install <>
+   55  Ls
+   56  Cd
+   57  cd
+   58  ls
+   59  pwd
+   60  cp
+   61  mv
+   62  rm
+   63  mkdir
+   64  history
+   65  history > ex2.txt
+   66  history > ~/week1/ex2.txt
